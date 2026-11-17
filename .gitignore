@@ -1,0 +1,19 @@
+# Compiled binaries & test artifacts
+/trellis
+/trellis.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+dist/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
